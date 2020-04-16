@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BLPay'
-  s.version          = '1.0.0'
-  s.summary          = 'A short description of BLPay.'
+  s.version          = '1.0.1'
+  s.summary          = 'BLPay'
   s.swift_version    = '4.0'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-A long description of BLPay...
+BLPay...
                        DESC
 
   s.homepage         = 'https://github.com/iosRober/BLPay'
